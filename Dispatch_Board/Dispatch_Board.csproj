@@ -1,10 +1,11 @@
 <Project Sdk="Microsoft.NET.Sdk">
 	<PropertyGroup>
-		<AssemblyName>MOD_NAME</AssemblyName>
 		<TargetFramework>net48</TargetFramework>
 		<LangVersion>latest</LangVersion>
 		<Nullable>enable</Nullable>
 		<WarningsAsErrors>CS8600;CS8602;CS8603</WarningsAsErrors>
+		<PackageId>Dispatch_Board</PackageId>
+		<RootNamespace>MOD_NAME</RootNamespace>
 	</PropertyGroup>
 
 	<!-- Derail Valley -->
